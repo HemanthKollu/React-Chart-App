@@ -1,0 +1,57 @@
+.container {
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.button-group {
+  margin: 20px 0;
+}
+
+.button-group1 {
+  margin-bottom: 20px;
+  margin-left: -50px;
+}
+.button-group2 {
+  margin-left: -50px;
+}
+.button1 {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  margin-left: 50px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.button {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  margin-left: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.button1:hover {
+  background-color: #0056b3;
+  transition: all ease 0.4s;
+}
+.button:hover {
+  background-color: #0056b3;
+  transition: all ease 0.4s;
+}
+
+.chart-container {
+  margin-top: 40px;
+}
+
+.chart-title {
+  font-size: 35px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  text-align: center;
+}
